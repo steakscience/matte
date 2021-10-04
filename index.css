@@ -1,0 +1,23 @@
+:root {
+  /* Light */
+  --color-app: #f7f7f7;
+  --color-background: #ebebeb;
+  --color-background-darker: #e5e5e5;
+
+  --color-body: #52525b;
+  --color-primary: #38383c;
+  --color-placeholder: #a3a3a3;
+
+  --color-border: #d4d4d8;
+
+/* Dark */
+  --color-dark-app: #17181a;
+  --color-dark-background: #1e1e21;
+  --color-dark-background-darker: #27272c;
+
+  --color-dark-body: #c3c3c7;
+  --color-dark-primary: #edeeef;
+  --color-dark-placeholder: #7f8085;
+
+  --color-dark-border: #58585b;
+}

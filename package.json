@@ -1,0 +1,18 @@
+{
+  "name": "matte",
+  "version": "1.0.0",
+  "description": "a color scheme",
+  "main": "index.css",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steakscience/matte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steakscience/matte/issues"
+  },
+  "homepage": "https://github.com/steakscience/matte#readme"
+}
