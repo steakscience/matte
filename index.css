@@ -1,23 +1,23 @@
 :root {
   /* Light */
-  --color-app: #f7f7f7;
-  --color-background: #ebebeb;
-  --color-background-darker: #e5e5e5;
+  --color-app: 247, 247, 247;
+  --color-background: 235, 235, 235;
+  --color-background-darker: 229, 229, 229;
 
-  --color-body: #52525b;
-  --color-primary: #38383c;
-  --color-placeholder: #a3a3a3;
+  --color-body: 82, 82, 91;
+  --color-primary: 56, 56, 60;
+  --color-placeholder: 163, 163, 163;
 
-  --color-border: #d4d4d8;
+  --color-border: 212, 212, 216;
 
 /* Dark */
-  --color-dark-app: #17181a;
-  --color-dark-background: #1e1e21;
-  --color-dark-background-darker: #27272c;
+  --color-dark-app: 23, 24, 26;
+  --color-dark-background: 30, 30, 33;
+  --color-dark-background-darker: 39, 39, 44;
 
-  --color-dark-body: #c3c3c7;
-  --color-dark-primary: #edeeef;
-  --color-dark-placeholder: #7f8085;
+  --color-dark-body: 195, 195, 199;
+  --color-dark-primary: 237, 238, 239;
+  --color-dark-placeholder: 127, 128, 133;
 
-  --color-dark-border: #58585b;
+  --color-dark-border: 88, 88, 91;
 }
